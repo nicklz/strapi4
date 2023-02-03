@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Body": {
+      "type": "richtext"
+    },
+    "UUID": {
+      "type": "customField",
+      "customField": "plugin::field-uuid.uuid"
+    }
+  }
+}

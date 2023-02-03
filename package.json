@@ -19,7 +19,6 @@
     "strapi-plugin-config-sync": "^1.1.0",
     "strapi-plugin-custom-api": "^1.0.4",
     "strapi-plugin-duplicate-button": "^1.1.7",
-    "strapi-plugin-menus": "^1.2.2",
     "strapi-plugin-multi-tenant": "^1.0.4",
     "strapi-plugin-wysiwyg-react-md-editor": "^4.3.0"
   },
